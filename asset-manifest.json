@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Kunal_Sharma_Portfolio/static/css/main.635214cd.css",
+    "main.js": "/Kunal_Sharma_Portfolio/static/js/main.54da6e74.js",
+    "static/media/body-bg.png": "/Kunal_Sharma_Portfolio/static/media/body-bg.f2b7f320c191da5e9e71.png",
+    "index.html": "/Kunal_Sharma_Portfolio/index.html",
+    "main.635214cd.css.map": "/Kunal_Sharma_Portfolio/static/css/main.635214cd.css.map",
+    "main.54da6e74.js.map": "/Kunal_Sharma_Portfolio/static/js/main.54da6e74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.635214cd.css",
+    "static/js/main.54da6e74.js"
+  ]
+}
